@@ -1,6 +1,5 @@
 # Analyze-AB-Test-Results
-Udacity Data Analyst Nanodegree Project3  Analyze-AB-Test-Results
-
+Project3  Analyze-AB-Test-Results, Project done for Udacity Data Analyst Nanodegree Program as a part of Practical Statistics course.
 
 ## Description
 
